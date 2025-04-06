@@ -22,8 +22,8 @@ This project automates the classification of scientific papers based on their co
 
 ## 📂 Input Data
 
-- `distillersr-LI-RADS_2025_Abstract_Inclusions.ris`
-- `distillersr-LI-RADS_2025_Abstract_Exclusions.ris`
+- `Abstract_Inclusions.ris`
+- `Abstract_Exclusions.ris`
 
 ---
 
