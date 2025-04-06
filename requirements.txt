@@ -1,0 +1,12 @@
+langchain==0.3.23
+langchain-openai==0.3.12
+openai==1.70.0
+pandas==2.2.3
+numpy==2.2.4
+tqdm==4.67.1
+rispy==0.7.0
+matplotlib==3.10.1
+pydantic==2.11.2
+python-dotenv==1.0.1
+nest-asyncio==1.6.0
+networkx==3.4.2
